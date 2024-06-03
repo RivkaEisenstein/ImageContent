@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-849479-read-content-image": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "iMAGE CONTENT",
+				"icon": "document-outline",
+				"description": "READ CONTENT FROM IMAGE",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_849479_read_co_0"
+}

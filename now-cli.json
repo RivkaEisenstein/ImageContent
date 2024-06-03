@@ -1,0 +1,16 @@
+{
+  "development": {
+    "proxy": {
+     "origin":"https://dev181670.service-now.com/",
+     "port":3000,
+     "proxies":[]
+    }
+  },
+  "styles": {
+      "themes": [{
+        "module": "@servicenow/sass-theme",
+        "main": ["theme.scss"],
+        "copyFiles": ["type/*", "*.scss"]
+      }]
+  }
+}
